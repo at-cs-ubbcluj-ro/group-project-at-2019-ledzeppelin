@@ -11,6 +11,8 @@ Also please fill the following details:
 
 Project idea: It consists in a guessing game. A binary number from 1 to 7 is randomly generated on 3 leds and the player need to press a button in order to guess the number as a zecimal number as a position in the array of 7 leds placed together in line which will be represented as a randomly led lit on. If the player guesses the right position a green light lights on, the red light lights on otherwise. As the player guesses more consecutive positions, the speed increases.
 
+The project as well as the web page, video and schematics are on the second branch. 
+
 =============
 
 Due: last laboratory.
